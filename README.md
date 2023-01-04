@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="social tree" src="./assets/css/style.css" width="100%">
+  <img alt="social tree" src="./assets/images/social_tree.css" width="100%">
 </p>
 
 ## 🚀 Tecnologias
